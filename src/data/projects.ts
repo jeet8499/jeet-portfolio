@@ -31,7 +31,7 @@ export const projects: Project[] = [
       "Asynchronous client-server inference architecture.",
       "Seamless context-menu integration inside Chrome."
     ],
-    githubUrl: "https://github.com/jeetmi9764",
+    githubUrl: "https://github.com/jeet8499/quick-comment-analyzer-chromeextension",
     image: "project1.png"
   },
   {
@@ -50,7 +50,7 @@ export const projects: Project[] = [
       "Hybrid collaborative and content-based recommendation logic.",
       "High-throughput vector ranking."
     ],
-    githubUrl: "https://github.com/jeetmi9764",
+    githubUrl: "https://github.com/jeet8499/RECOMMENDATION_SYS-ML/blob/main/RECCOMMLSYS.ipynb",
     image: "project2.png"
   },
   {
@@ -69,7 +69,7 @@ export const projects: Project[] = [
       "Automated directory tree synthesis and extension mapping.",
       "Built-in duplicate handling safeguards."
     ],
-    githubUrl: "https://github.com/jeetmi9764",
+    githubUrl: "https://github.com/jeet8499/pythonproject/blob/main/cleanerproj/cleaner.py",
     image: "project3.png"
   }
 ];

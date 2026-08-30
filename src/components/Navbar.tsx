@@ -79,10 +79,10 @@ export const Navbar: React.FC<NavbarProps> = ({ currentView, setCurrentView }) =
       
       {/* Right: Links */}
       <div className="pointer-events-auto flex gap-6 text-[13px] text-white font-medium">
-        <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="flex items-center gap-1 hover:text-zinc-300 transition-colors">
+        <a href="https://www.linkedin.com/in/jeet-choudhary-b6b346311/" target="_blank" rel="noreferrer" className="flex items-center gap-1 hover:text-zinc-300 transition-colors">
           LinkedIn <ArrowUpRight className="w-3.5 h-3.5 text-zinc-500" />
         </a>
-        <a href="/resume.pdf" target="_blank" rel="noreferrer" className="flex items-center gap-1 hover:text-zinc-300 transition-colors">
+        <a href="https://drive.google.com/file/d/19BUR57Rkt9F4gjHrvIvGSgeIk6GtndRf/view?usp=drive_link" target="_blank" rel="noreferrer" className="flex items-center gap-1 hover:text-zinc-300 transition-colors">
           Resume <ArrowUpRight className="w-3.5 h-3.5 text-zinc-500" />
         </a>
       </div>
