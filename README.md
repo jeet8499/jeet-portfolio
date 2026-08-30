@@ -41,7 +41,7 @@ To run this repository locally on your machine:
 git clone [https://github.com/jeetmi9764/YOUR-REPO-NAME.git](https://github.com/jeetmi9764/jeet-potfolio.git)
 
 # Navigate into the project directory
-cd YOUR-REPO-NAME
+cd jeet-portfolio
 
 # Install dependencies
 npm install
