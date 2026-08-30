@@ -4,6 +4,7 @@ import { Hero } from './components/Hero';
 import { WorkSection } from './components/WorkSection';
 import { InfoSection } from './components/InfoSection';
 import { AnimatePresence, motion } from 'framer-motion';
+import { Analytics } from '@vercel/analytics/react';
 
 export default function App() {
   const [currentView, setCurrentView] = useState<'work' | 'info'>('work');
@@ -47,6 +48,7 @@ export default function App() {
 
       </main>
       
+      <Analytics />
     </div>
   );
 }
