@@ -38,7 +38,7 @@ To run this repository locally on your machine:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/jeetmi9764/YOUR-REPO-NAME.git](https://github.com/jeetmi9764/YOUR-REPO-NAME.git)
+git clone [https://github.com/jeetmi9764/YOUR-REPO-NAME.git](https://github.com/jeetmi9764/jeet-potfolio.git)
 
 # Navigate into the project directory
 cd YOUR-REPO-NAME
